@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-03)
+## Unreleased (2025-03-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`077d03c`](https://github.com/stdlib-js/stdlib/commit/077d03c9b5f1685bc933fd143ee7cb8db25957b0) - **chore:** remove duplicate keywords [(#5845)](https://github.com/stdlib-js/stdlib/pull/5845) _(by Karan Anand)_
 -   [`21f8e14`](https://github.com/stdlib-js/stdlib/commit/21f8e1488e983bf951e590558a96ffee0bc956cc) - **feat:** add `stats/base/dists/bradford/mode` [(#5315)](https://github.com/stdlib-js/stdlib/pull/5315) _(by Karan Anand)_
 
 </details>
