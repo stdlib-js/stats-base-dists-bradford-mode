@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-25)
+## Unreleased (2025-07-06)
 
 <section class="features">
 
@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`cd645cc`](https://github.com/stdlib-js/stdlib/commit/cd645cc7887109540fd4b0262a925ed7a59a55a9) - **chore:** clean-up _(by Athan Reines)_
 -   [`3491002`](https://github.com/stdlib-js/stdlib/commit/3491002e548afcb41f20d03cb348f9329f3080a6) - **feat:** add C implementation for `stats/base/dists/bradford/mode` _(by Philipp Burckhardt)_
 -   [`fe60f20`](https://github.com/stdlib-js/stdlib/commit/fe60f203dd58e075e075d8cc8751216b66314fc9) - **chore:** adds `opts` [(#6908)](https://github.com/stdlib-js/stdlib/pull/6908) _(by Harsh)_
 -   [`379390a`](https://github.com/stdlib-js/stdlib/commit/379390a688ef3f94fb7a2dfdfbfbd940bd1cb28a) - **docs:** replace manual `for` loop in examples [(#6907)](https://github.com/stdlib-js/stdlib/pull/6907) _(by Harsh)_
@@ -39,8 +40,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
